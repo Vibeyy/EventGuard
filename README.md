@@ -3,4 +3,14 @@ The geolocation covers VIT University Chennai. You can change it as per your req
 
 Libraies required:
 
+tkinter
+sqlite3
+pickle
+numpy
+asyncio
+geolocation
+cv2
+face_recognition
+winsound
+smtplib
 
